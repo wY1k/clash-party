@@ -18,7 +18,7 @@
 </div>
 
 ### 本项目认证稳定机场推荐：“[狗狗加速](https://party.dginv.click/#/register?code=ARdo0mXx)”
-##### [狗狗加速 —— 技术流机场 Doggygo VPN](https://party.dginv.click/#/register?code=ARdo0mXx)
+##### [狗狗加速 —— 技术流机场 Doggygo VPN]()
 
 - 高性能海外机场，稳定首选，海外团队，无跑路风险
 - Clash Party专属8折优惠码：party，仅有500份
